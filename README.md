@@ -110,10 +110,6 @@ All 34 tests should pass:
 
 The suite covers Hull (10th ed.) reference values, put-call parity across multiple parameter sets, Greek sign and magnitude conventions, deep-ITM/OTM boundary behavior, analytical-vs-numerical Greek agreement, IV round-trip accuracy, and input validation.
 
-## What I learned building this
-
-*(I'll fill this in after working through the code in depth — what concept clicked, what was harder than expected, what I would do differently.)*
-
 ## References
 
 - Hull, J. C. (2018). *Options, Futures, and Other Derivatives*, 10th ed. Pearson.
